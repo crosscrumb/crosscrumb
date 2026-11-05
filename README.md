@@ -1,5 +1,8 @@
-
 <div align="center">
+
+<img src="https://64.media.tumblr.com/594b9215169516c6a5d500cc8dda51c3/26863bf20298a627-c2/s250x400/304b32be3a8879b891177f3dd056c5b9f8f1b6e9.webp" width="200">
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=crosscrumb&color=e8b5ca&style=flat-square&label=♡">
 
