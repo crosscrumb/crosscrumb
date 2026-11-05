@@ -17,9 +17,8 @@
 
 <br><br>
 
-<img src="LINK_STAMP_6" width="180">
-<img src="LINK_STAMP_7" width="180">
-<img src="LINK_STAMP_8" width="180">
+<img src="https://64.media.tumblr.com/a0d7a9b75992ece3c5c36a7daf16d2a4/d29e9ba464b39778-20/s250x400/f702a6d32b4ab7d04e92b83e86dff4a6ca761169.gifv" width="180">
+<img src="https://64.media.tumblr.com/75eb80c452a101b415e7ea2893e342a3/d29e9ba464b39778-f3/s100x200/e5e0c9ecf283a3f7abd55c98fdcaaf0e411bc460.gifv" width="180">
 
 <br><br>
 
