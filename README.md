@@ -9,8 +9,8 @@
 
 <br><br>
 
-<img src="https://64.media.tumblr.com/a0d7a9b75992ece3c5c36a7daf16d2a4/d29e9ba464b39778-20/s250x400/f702a6d32b4ab7d04e92b83e86dff4a6ca761169.gifv" width="180">
-<img src="https://64.media.tumblr.com/75eb80c452a101b415e7ea2893e342a3/d29e9ba464b39778-f3/s100x200/e5e0c9ecf283a3f7abd55c98fdcaaf0e411bc460.gifv" width="180">
+<img src="https://64.media.tumblr.com/0e00610c0e42fb68e3e8b425fb5a111c/2003e68fd6eb9e79-71/s100x200/4aebbd7c2df8733bb199e27e3806d3378c972f8a.pnj" width="180">
+<img src="https://64.media.tumblr.com/b9ad080417d842e9c3b97b7362ec24b8/2003e68fd6eb9e79-1e/s100x200/81f22239c243605d8d1639b0f7fd28d77cc74bf9.webp" width="180">
 
 <br><br>
 
