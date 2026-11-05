@@ -22,7 +22,7 @@
 
 <br><br>
 
-<img src="https://64.media.tumblr.com/03430a35918a092e4c8c540fdecf9a93/ce9f592c99f44d2f-07/s400x600/6ac5043f19ed439e8f17562d79f93e843e633c15.pnj" width="400">
+<img src="https://64.media.tumblr.com/c1887e0f1a8a5caedcf1351fb2d2ed89/d3a530e8978c17d6-04/s640x960/afbee95924c202e3e6ce8711fd53311b90e51b08.pnj" width="400">
 
 <br><br>
 
