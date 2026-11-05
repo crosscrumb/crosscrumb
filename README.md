@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img src="LINK_DIVISORIA" width="400">
+<img src="https://64.media.tumblr.com/03430a35918a092e4c8c540fdecf9a93/ce9f592c99f44d2f-07/s400x600/6ac5043f19ed439e8f17562d79f93e843e633c15.pnj" width="400">
 
 <br><br>
 
