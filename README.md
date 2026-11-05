@@ -18,12 +18,10 @@
 
 <br><br>
 
-<a href="https://hiratwoos.straw.page/">
-<img src="LINK_STAMP_STRAWPAGE" width="110">
-</a>
+<div align="center">
 
-<a href="https://lituanyan.atabook.org/">
-<img src="LINK_STAMP_ATABOOK" width="110">
-</a>
+<a href="https://hiratwoos.straw.page/">straw</a>
+&nbsp; ♡ &nbsp;
+<a href="https://lituanyan.atabook.org/">sign ata</a>
 
 </div>
